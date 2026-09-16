@@ -65,6 +65,8 @@ I do not find a statistically significant relationship between the tax-exposure 
 
 For average annual pay, the preferred specification produces a positive and statistically significant coefficient. The estimate remains similar after excluding counties where manufacturing accounted for more than 75% of private employment in 1990.
 
+I also allow counties with greater initial manufacturing exposure to follow different linear trends over time. With this additional control, the pay coefficient falls from 3.220 to 1.759 but remains statistically significant (SE = 0.656, p = 0.010).
+
 | Model | Coefficient | Standard Error |
 |---|---:|---:|
 | Employment — County + Year FE | 0.694 | 2.534 |
@@ -72,8 +74,11 @@ For average annual pay, the preferred specification produces a positive and stat
 | Employment — County + State-Year FE | 2.703 | 3.454 |
 | Pay — County + State-Year FE | 3.220 | 0.868 |
 | Pay — Excluding High-Exposure Counties | 3.174 | 0.884 |
+| Pay — Manufacturing Exposure Trend | 1.759 | 0.656 |
 
-I interpret the pay result cautiously. The design shows how the relationship between state corporate tax rates and local labor market outcomes differs with predetermined manufacturing exposure. It does not, by itself, establish that corporate tax increases caused higher pay.
+The differential-trend specification suggests that underlying trends among manufacturing-intensive counties explain part of the positive pay relationship, but not all of it.
+
+I interpret these results cautiously. Manufacturing exposure is a proxy for corporate-sector exposure, and these specifications do not rule out all sources of differential county-level change. I therefore treat the estimates as evidence of a differential relationship rather than a definitive causal effect.
 
 ## Employment Results
 
@@ -85,7 +90,7 @@ The employment estimates are imprecise, and their 95% confidence intervals inclu
 
 ![Pay Results](output/figures/pay_results.png)
 
-The pay estimate is more precise in the state-by-year fixed-effects specification and remains similar when highly manufacturing-intensive counties are excluded.
+The pay estimate is positive in the preferred state-by-year fixed-effects specification. It remains similar when highly manufacturing-intensive counties are excluded and remains positive, though smaller, after controlling for differential linear trends by initial manufacturing exposure.
 
 ## Descriptive Statistics
 
@@ -106,10 +111,9 @@ Manufacturing employment is a proxy for a county's exposure to the corporate sec
 
 QCEW disclosure suppression also limits the counties for which manufacturing exposure can be constructed in 1990.
 
-Finally, state tax changes can coincide with other economic and policy changes. State-by-year fixed effects absorb shocks common to counties within the same state and year, but counties with different initial manufacturing exposure could still experience different underlying trends.
+The differential-trend robustness check helps account for different long-run trends across counties with different initial manufacturing exposure, but it does not eliminate all possible confounding factors. State tax changes may still coincide with other changes that affect counties differently.
 
-For these reasons, I interpret the estimates as evidence of differential relationships rather than definitive causal effects.
-
+For these reasons, the results should be interpreted as conditional associations rather than definitive causal effects.
 ## Repository Structure
 
 ```text
