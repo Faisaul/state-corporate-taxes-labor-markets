@@ -1,5 +1,14 @@
 # State Corporate Taxes & Local Labor Markets
 
+---
+
+![R](https://img.shields.io/badge/R-Econometrics-blue)
+![Data](https://img.shields.io/badge/Data-BLS%20QCEW-0077B5)
+![Method](https://img.shields.io/badge/Method-State--Year%20FE-2ea44f)
+![Project](https://img.shields.io/badge/Project-Independent%20Research-6f42c1)
+
+---
+
 This project studies whether changes in state corporate income tax rates are associated with different labor market outcomes across U.S. counties. I focus on whether counties with greater initial manufacturing exposure respond differently to changes in their state's corporate tax rate.
 
 The analysis combines historical state corporate tax rates with county-level employment and pay data from the BLS Quarterly Census of Employment and Wages (QCEW), covering 1990–2010.
