@@ -1,0 +1,1582 @@
+State,Year,FIPS,State Corporate Tax Rate,Federal Corporate Tax Rate
+Alabama,1980,1,0.05,0.46
+Alabama,1981,1,0.05,0.46
+Alabama,1982,1,0.05,0.46
+Alabama,1983,1,0.05,0.46
+Alabama,1984,1,0.05,0.46
+Alabama,1985,1,0.05,0.46
+Alabama,1986,1,0.05,0.46
+Alabama,1987,1,0.05,0.4
+Alabama,1988,1,0.05,0.34
+Alabama,1989,1,0.05,0.34
+Alabama,1990,1,0.05,0.34
+Alabama,1991,1,0.05,0.34
+Alabama,1992,1,0.05,0.34
+Alabama,1993,1,0.05,0.35
+Alabama,1994,1,0.05,0.35
+Alabama,1995,1,0.05,0.35
+Alabama,1996,1,0.05,0.35
+Alabama,1997,1,0.05,0.35
+Alabama,1998,1,0.05,0.35
+Alabama,1999,1,0.05,0.35
+Alabama,2000,1,0.05,0.35
+Alabama,2001,1,0.065,0.35
+Alabama,2002,1,0.065,0.35
+Alabama,2003,1,0.065,0.35
+Alabama,2004,1,0.065,0.35
+Alabama,2005,1,0.065,0.35
+Alabama,2006,1,0.065,0.35
+Alabama,2007,1,0.065,0.35
+Alabama,2008,1,0.065,0.35
+Alabama,2009,1,0.065,0.35
+Alabama,2010,1,0.065,0.35
+Alaska,1980,2,0.094,0.46
+Alaska,1981,2,0.094,0.46
+Alaska,1982,2,0.094,0.46
+Alaska,1983,2,0.094,0.46
+Alaska,1984,2,0.094,0.46
+Alaska,1985,2,0.094,0.46
+Alaska,1986,2,0.094,0.46
+Alaska,1987,2,0.094,0.4
+Alaska,1988,2,0.094,0.34
+Alaska,1989,2,0.094,0.34
+Alaska,1990,2,0.094,0.34
+Alaska,1991,2,0.094,0.34
+Alaska,1992,2,0.094,0.34
+Alaska,1993,2,0.094,0.35
+Alaska,1994,2,0.094,0.35
+Alaska,1995,2,0.094,0.35
+Alaska,1996,2,0.094,0.35
+Alaska,1997,2,0.094,0.35
+Alaska,1998,2,0.094,0.35
+Alaska,1999,2,0.094,0.35
+Alaska,2000,2,0.094,0.35
+Alaska,2001,2,0.094,0.35
+Alaska,2002,2,0.094,0.35
+Alaska,2003,2,0.094,0.35
+Alaska,2004,2,0.094,0.35
+Alaska,2005,2,0.094,0.35
+Alaska,2006,2,0.094,0.35
+Alaska,2007,2,0.094,0.35
+Alaska,2008,2,0.094,0.35
+Alaska,2009,2,0.094,0.35
+Alaska,2010,2,0.094,0.35
+Arizona,1980,4,0.105,0.46
+Arizona,1981,4,0.105,0.46
+Arizona,1982,4,0.105,0.46
+Arizona,1983,4,0.105,0.46
+Arizona,1984,4,0.105,0.46
+Arizona,1985,4,0.105,0.46
+Arizona,1986,4,0.105,0.46
+Arizona,1987,4,0.105,0.4
+Arizona,1988,4,0.105,0.34
+Arizona,1989,4,0.105,0.34
+Arizona,1990,4,0.105,0.34
+Arizona,1991,4,0.093,0.34
+Arizona,1992,4,0.093,0.34
+Arizona,1993,4,0.093,0.35
+Arizona,1994,4,0.09,0.35
+Arizona,1995,4,0.09,0.35
+Arizona,1996,4,0.09,0.35
+Arizona,1997,4,0.09,0.35
+Arizona,1998,4,0.09,0.35
+Arizona,1999,4,0.08,0.35
+Arizona,2000,4,0.07968,0.35
+Arizona,2001,4,0.06968,0.35
+Arizona,2002,4,0.06968,0.35
+Arizona,2003,4,0.06968,0.35
+Arizona,2004,4,0.06968,0.35
+Arizona,2005,4,0.06968,0.35
+Arizona,2006,4,0.06968,0.35
+Arizona,2007,4,0.06968,0.35
+Arizona,2008,4,0.06968,0.35
+Arizona,2009,4,0.06968,0.35
+Arizona,2010,4,0.06968,0.35
+Arkansas,1980,5,0.06,0.46
+Arkansas,1981,5,0.06,0.46
+Arkansas,1982,5,0.06,0.46
+Arkansas,1983,5,0.06,0.46
+Arkansas,1984,5,0.06,0.46
+Arkansas,1985,5,0.06,0.46
+Arkansas,1986,5,0.06,0.46
+Arkansas,1987,5,0.06,0.4
+Arkansas,1988,5,0.06,0.34
+Arkansas,1989,5,0.06,0.34
+Arkansas,1990,5,0.06,0.34
+Arkansas,1991,5,0.065,0.34
+Arkansas,1992,5,0.065,0.34
+Arkansas,1993,5,0.065,0.35
+Arkansas,1994,5,0.065,0.35
+Arkansas,1995,5,0.065,0.35
+Arkansas,1996,5,0.065,0.35
+Arkansas,1997,5,0.065,0.35
+Arkansas,1998,5,0.065,0.35
+Arkansas,1999,5,0.065,0.35
+Arkansas,2000,5,0.065,0.35
+Arkansas,2001,5,0.065,0.35
+Arkansas,2002,5,0.065,0.35
+Arkansas,2003,5,0.065,0.35
+Arkansas,2004,5,0.065,0.35
+Arkansas,2005,5,0.065,0.35
+Arkansas,2006,5,0.065,0.35
+Arkansas,2007,5,0.065,0.35
+Arkansas,2008,5,0.065,0.35
+Arkansas,2009,5,0.065,0.35
+Arkansas,2010,5,0.065,0.35
+California,1980,6,0.096,0.46
+California,1981,6,0.096,0.46
+California,1982,6,0.096,0.46
+California,1983,6,0.096,0.46
+California,1984,6,0.096,0.46
+California,1985,6,0.096,0.46
+California,1986,6,0.096,0.46
+California,1987,6,0.093,0.4
+California,1988,6,0.093,0.34
+California,1989,6,0.093,0.34
+California,1990,6,0.093,0.34
+California,1991,6,0.093,0.34
+California,1992,6,0.093,0.34
+California,1993,6,0.093,0.35
+California,1994,6,0.093,0.35
+California,1995,6,0.093,0.35
+California,1996,6,0.093,0.35
+California,1997,6,0.093,0.35
+California,1998,6,0.0884,0.35
+California,1999,6,0.0884,0.35
+California,2000,6,0.0884,0.35
+California,2001,6,0.0884,0.35
+California,2002,6,0.0884,0.35
+California,2003,6,0.0884,0.35
+California,2004,6,0.0884,0.35
+California,2005,6,0.0884,0.35
+California,2006,6,0.0884,0.35
+California,2007,6,0.0884,0.35
+California,2008,6,0.0884,0.35
+California,2009,6,0.0884,0.35
+California,2010,6,0.0884,0.35
+Colorado,1980,8,0.05,0.46
+Colorado,1981,8,0.05,0.46
+Colorado,1982,8,0.05,0.46
+Colorado,1983,8,0.05,0.46
+Colorado,1984,8,0.05,0.46
+Colorado,1985,8,0.05,0.46
+Colorado,1986,8,0.05,0.46
+Colorado,1987,8,0.06,0.4
+Colorado,1988,8,0.06,0.34
+Colorado,1989,8,0.055,0.34
+Colorado,1990,8,0.054,0.34
+Colorado,1991,8,0.053,0.34
+Colorado,1992,8,0.052,0.34
+Colorado,1993,8,0.051,0.35
+Colorado,1994,8,0.05,0.35
+Colorado,1995,8,0.05,0.35
+Colorado,1996,8,0.05,0.35
+Colorado,1997,8,0.05,0.35
+Colorado,1998,8,0.05,0.35
+Colorado,1999,8,0.0475,0.35
+Colorado,2000,8,0.0463,0.35
+Colorado,2001,8,0.0463,0.35
+Colorado,2002,8,0.0463,0.35
+Colorado,2003,8,0.0463,0.35
+Colorado,2004,8,0.0463,0.35
+Colorado,2005,8,0.0463,0.35
+Colorado,2006,8,0.0463,0.35
+Colorado,2007,8,0.0463,0.35
+Colorado,2008,8,0.0463,0.35
+Colorado,2009,8,0.0463,0.35
+Colorado,2010,8,0.0463,0.35
+Connecticut,1980,9,0.1,0.46
+Connecticut,1981,9,0.1,0.46
+Connecticut,1982,9,0.1,0.46
+Connecticut,1983,9,0.1,0.46
+Connecticut,1984,9,0.115,0.46
+Connecticut,1985,9,0.115,0.46
+Connecticut,1986,9,0.115,0.46
+Connecticut,1987,9,0.115,0.4
+Connecticut,1988,9,0.115,0.34
+Connecticut,1989,9,0.115,0.34
+Connecticut,1990,9,0.115,0.34
+Connecticut,1991,9,0.115,0.34
+Connecticut,1992,9,0.115,0.34
+Connecticut,1993,9,0.115,0.35
+Connecticut,1994,9,0.115,0.35
+Connecticut,1995,9,0.1125,0.35
+Connecticut,1996,9,0.1075,0.35
+Connecticut,1997,9,0.105,0.35
+Connecticut,1998,9,0.095,0.35
+Connecticut,1999,9,0.085,0.35
+Connecticut,2000,9,0.075,0.35
+Connecticut,2001,9,0.075,0.35
+Connecticut,2002,9,0.075,0.35
+Connecticut,2003,9,0.09,0.35
+Connecticut,2004,9,0.09375,0.35
+Connecticut,2005,9,0.075,0.35
+Connecticut,2006,9,0.09,0.35
+Connecticut,2007,9,0.075,0.35
+Connecticut,2008,9,0.075,0.35
+Connecticut,2009,9,0.075,0.35
+Connecticut,2010,9,0.075,0.35
+Delaware,1980,10,0.087,0.46
+Delaware,1981,10,0.087,0.46
+Delaware,1982,10,0.087,0.46
+Delaware,1983,10,0.087,0.46
+Delaware,1984,10,0.087,0.46
+Delaware,1985,10,0.087,0.46
+Delaware,1986,10,0.087,0.46
+Delaware,1987,10,0.087,0.4
+Delaware,1988,10,0.087,0.34
+Delaware,1989,10,0.087,0.34
+Delaware,1990,10,0.087,0.34
+Delaware,1991,10,0.087,0.34
+Delaware,1992,10,0.087,0.34
+Delaware,1993,10,0.087,0.35
+Delaware,1994,10,0.087,0.35
+Delaware,1995,10,0.087,0.35
+Delaware,1996,10,0.087,0.35
+Delaware,1997,10,0.087,0.35
+Delaware,1998,10,0.087,0.35
+Delaware,1999,10,0.087,0.35
+Delaware,2000,10,0.087,0.35
+Delaware,2001,10,0.087,0.35
+Delaware,2002,10,0.087,0.35
+Delaware,2003,10,0.087,0.35
+Delaware,2004,10,0.087,0.35
+Delaware,2005,10,0.087,0.35
+Delaware,2006,10,0.087,0.35
+Delaware,2007,10,0.087,0.35
+Delaware,2008,10,0.087,0.35
+Delaware,2009,10,0.087,0.35
+Delaware,2010,10,0.087,0.35
+District of Columbia,1980,11,0.105,0.46
+District of Columbia,1981,11,0.105,0.46
+District of Columbia,1982,11,0.105,0.46
+District of Columbia,1983,11,0.105,0.46
+District of Columbia,1984,11,0.105,0.46
+District of Columbia,1985,11,0.105,0.46
+District of Columbia,1986,11,0.105,0.46
+District of Columbia,1987,11,0.105,0.4
+District of Columbia,1988,11,0.105,0.34
+District of Columbia,1989,11,0.105,0.34
+District of Columbia,1990,11,0.105,0.34
+District of Columbia,1991,11,0.105,0.34
+District of Columbia,1992,11,0.105,0.34
+District of Columbia,1993,11,0.105,0.35
+District of Columbia,1994,11,0.11,0.35
+District of Columbia,1995,11,0.1,0.35
+District of Columbia,1996,11,0.1,0.35
+District of Columbia,1997,11,0.1,0.35
+District of Columbia,1998,11,0.1,0.35
+District of Columbia,1999,11,0.1,0.35
+District of Columbia,2000,11,0,0.35
+District of Columbia,2001,11,0,0.35
+District of Columbia,2002,11,0,0.35
+District of Columbia,2003,11,0,0.35
+District of Columbia,2004,11,0,0.35
+District of Columbia,2005,11,0,0.35
+District of Columbia,2006,11,0,0.35
+District of Columbia,2007,11,0,0.35
+District of Columbia,2008,11,0,0.35
+District of Columbia,2009,11,0,0.35
+District of Columbia,2010,11,0,0.35
+Florida,1980,12,0.05,0.46
+Florida,1981,12,0.05,0.46
+Florida,1982,12,0.05,0.46
+Florida,1983,12,0.05,0.46
+Florida,1984,12,0.05,0.46
+Florida,1985,12,0.055,0.46
+Florida,1986,12,0.055,0.46
+Florida,1987,12,0.055,0.4
+Florida,1988,12,0.055,0.34
+Florida,1989,12,0.055,0.34
+Florida,1990,12,0.055,0.34
+Florida,1991,12,0.055,0.34
+Florida,1992,12,0.055,0.34
+Florida,1993,12,0.055,0.35
+Florida,1994,12,0.055,0.35
+Florida,1995,12,0.055,0.35
+Florida,1996,12,0.055,0.35
+Florida,1997,12,0.055,0.35
+Florida,1998,12,0.055,0.35
+Florida,1999,12,0.055,0.35
+Florida,2000,12,0.055,0.35
+Florida,2001,12,0.055,0.35
+Florida,2002,12,0.055,0.35
+Florida,2003,12,0.055,0.35
+Florida,2004,12,0.055,0.35
+Florida,2005,12,0.055,0.35
+Florida,2006,12,0.055,0.35
+Florida,2007,12,0.055,0.35
+Florida,2008,12,0.055,0.35
+Florida,2009,12,0.055,0.35
+Florida,2010,12,0.055,0.35
+Georgia,1980,13,0.06,0.46
+Georgia,1981,13,0.06,0.46
+Georgia,1982,13,0.06,0.46
+Georgia,1983,13,0.06,0.46
+Georgia,1984,13,0.06,0.46
+Georgia,1985,13,0.06,0.46
+Georgia,1986,13,0.06,0.46
+Georgia,1987,13,0.06,0.4
+Georgia,1988,13,0.06,0.34
+Georgia,1989,13,0.06,0.34
+Georgia,1990,13,0.06,0.34
+Georgia,1991,13,0.06,0.34
+Georgia,1992,13,0.06,0.34
+Georgia,1993,13,0.06,0.35
+Georgia,1994,13,0.06,0.35
+Georgia,1995,13,0.06,0.35
+Georgia,1996,13,0.06,0.35
+Georgia,1997,13,0.06,0.35
+Georgia,1998,13,0.06,0.35
+Georgia,1999,13,0.06,0.35
+Georgia,2000,13,0.06,0.35
+Georgia,2001,13,0.06,0.35
+Georgia,2002,13,0.06,0.35
+Georgia,2003,13,0.06,0.35
+Georgia,2004,13,0.06,0.35
+Georgia,2005,13,0.06,0.35
+Georgia,2006,13,0.06,0.35
+Georgia,2007,13,0.06,0.35
+Georgia,2008,13,0.06,0.35
+Georgia,2009,13,0.06,0.35
+Georgia,2010,13,0.06,0.35
+Hawaii,1980,15,0.06435,0.46
+Hawaii,1981,15,0.06435,0.46
+Hawaii,1982,15,0.06435,0.46
+Hawaii,1983,15,0.06435,0.46
+Hawaii,1984,15,0.06435,0.46
+Hawaii,1985,15,0.06435,0.46
+Hawaii,1986,15,0.064,0.46
+Hawaii,1987,15,0.064,0.4
+Hawaii,1988,15,0.064,0.34
+Hawaii,1989,15,0.0064,0.34
+Hawaii,1990,15,0.064,0.34
+Hawaii,1991,15,0.064,0.34
+Hawaii,1992,15,0.064,0.34
+Hawaii,1993,15,0.064,0.35
+Hawaii,1994,15,0.064,0.35
+Hawaii,1995,15,0.064,0.35
+Hawaii,1996,15,0.064,0.35
+Hawaii,1997,15,0.064,0.35
+Hawaii,1998,15,0.064,0.35
+Hawaii,1999,15,0.064,0.35
+Hawaii,2000,15,0.064,0.35
+Hawaii,2001,15,0.064,0.35
+Hawaii,2002,15,0.064,0.35
+Hawaii,2003,15,0.064,0.35
+Hawaii,2004,15,0.064,0.35
+Hawaii,2005,15,0.064,0.35
+Hawaii,2006,15,0.064,0.35
+Hawaii,2007,15,0.064,0.35
+Hawaii,2008,15,0.064,0.35
+Hawaii,2009,15,0.064,0.35
+Hawaii,2010,15,0.064,0.35
+Idaho,1980,16,0.065,0.46
+Idaho,1981,16,0.077,0.46
+Idaho,1982,16,0.077,0.46
+Idaho,1983,16,0.077,0.46
+Idaho,1984,16,0.077,0.46
+Idaho,1985,16,0.077,0.46
+Idaho,1986,16,0.077,0.46
+Idaho,1987,16,0.077,0.4
+Idaho,1988,16,0.08,0.34
+Idaho,1989,16,0.08,0.34
+Idaho,1990,16,0.08,0.34
+Idaho,1991,16,0.08,0.34
+Idaho,1992,16,0.08,0.34
+Idaho,1993,16,0.08,0.35
+Idaho,1994,16,0.08,0.35
+Idaho,1995,16,0.08,0.35
+Idaho,1996,16,0.08,0.35
+Idaho,1997,16,0.08,0.35
+Idaho,1998,16,0.08,0.35
+Idaho,1999,16,0.08,0.35
+Idaho,2000,16,0.08,0.35
+Idaho,2001,16,0.076,0.35
+Idaho,2002,16,0.076,0.35
+Idaho,2003,16,0.076,0.35
+Idaho,2004,16,0.076,0.35
+Idaho,2005,16,0.076,0.35
+Idaho,2006,16,0.076,0.35
+Idaho,2007,16,0.076,0.35
+Idaho,2008,16,0.076,0.35
+Idaho,2009,16,0.076,0.35
+Idaho,2010,16,0.076,0.35
+Illinois,1980,17,0.065,0.46
+Illinois,1981,17,0.065,0.46
+Illinois,1982,17,0.065,0.46
+Illinois,1983,17,0.065,0.46
+Illinois,1984,17,0.065,0.46
+Illinois,1985,17,0.065,0.46
+Illinois,1986,17,0.065,0.46
+Illinois,1987,17,0.065,0.4
+Illinois,1988,17,0.065,0.34
+Illinois,1989,17,0.073,0.34
+Illinois,1990,17,0.073,0.34
+Illinois,1991,17,0.073,0.34
+Illinois,1992,17,0.073,0.34
+Illinois,1993,17,0.073,0.35
+Illinois,1994,17,0.073,0.35
+Illinois,1995,17,0.073,0.35
+Illinois,1996,17,0.073,0.35
+Illinois,1997,17,0.073,0.35
+Illinois,1998,17,0.073,0.35
+Illinois,1999,17,0.073,0.35
+Illinois,2000,17,0.073,0.35
+Illinois,2001,17,0.073,0.35
+Illinois,2002,17,0.073,0.35
+Illinois,2003,17,0.073,0.35
+Illinois,2004,17,0.073,0.35
+Illinois,2005,17,0.073,0.35
+Illinois,2006,17,0.073,0.35
+Illinois,2007,17,0.073,0.35
+Illinois,2008,17,0.073,0.35
+Illinois,2009,17,0.073,0.35
+Illinois,2010,17,0.073,0.35
+Indiana,1980,18,0.06,0.46
+Indiana,1981,18,0.06,0.46
+Indiana,1982,18,0.06,0.46
+Indiana,1983,18,0.07,0.46
+Indiana,1984,18,0.07,0.46
+Indiana,1985,18,0.07,0.46
+Indiana,1986,18,0.07,0.46
+Indiana,1987,18,0.07,0.4
+Indiana,1988,18,0.079,0.34
+Indiana,1989,18,0.079,0.34
+Indiana,1990,18,0.079,0.34
+Indiana,1991,18,0.079,0.34
+Indiana,1992,18,0.079,0.34
+Indiana,1993,18,0.079,0.35
+Indiana,1994,18,0.079,0.35
+Indiana,1995,18,0.079,0.35
+Indiana,1996,18,0.079,0.35
+Indiana,1997,18,0.079,0.35
+Indiana,1998,18,0.079,0.35
+Indiana,1999,18,0.079,0.35
+Indiana,2000,18,0.079,0.35
+Indiana,2001,18,0.079,0.35
+Indiana,2002,18,0.079,0.35
+Indiana,2003,18,0.085,0.35
+Indiana,2004,18,0.085,0.35
+Indiana,2005,18,0.085,0.35
+Indiana,2006,18,0.085,0.35
+Indiana,2007,18,0.085,0.35
+Indiana,2008,18,0.085,0.35
+Indiana,2009,18,0.085,0.35
+Indiana,2010,18,0.085,0.35
+Iowa,1980,19,0.1,0.46
+Iowa,1981,19,0.1,0.46
+Iowa,1982,19,0.1,0.46
+Iowa,1983,19,0.12,0.46
+Iowa,1984,19,0.12,0.46
+Iowa,1985,19,0.12,0.46
+Iowa,1986,19,0.12,0.46
+Iowa,1987,19,0.12,0.4
+Iowa,1988,19,0.12,0.34
+Iowa,1989,19,0.12,0.34
+Iowa,1990,19,0.12,0.34
+Iowa,1991,19,0.12,0.34
+Iowa,1992,19,0.12,0.34
+Iowa,1993,19,0.12,0.35
+Iowa,1994,19,0.12,0.35
+Iowa,1995,19,0.12,0.35
+Iowa,1996,19,0.12,0.35
+Iowa,1997,19,0.12,0.35
+Iowa,1998,19,0.12,0.35
+Iowa,1999,19,0.12,0.35
+Iowa,2000,19,0.12,0.35
+Iowa,2001,19,0.12,0.35
+Iowa,2002,19,0.12,0.35
+Iowa,2003,19,0.12,0.35
+Iowa,2004,19,0.12,0.35
+Iowa,2005,19,0.12,0.35
+Iowa,2006,19,0.12,0.35
+Iowa,2007,19,0.12,0.35
+Iowa,2008,19,0.12,0.35
+Iowa,2009,19,0.12,0.35
+Iowa,2010,19,0.12,0.35
+Kansas,1980,20,0.0675,0.46
+Kansas,1981,20,0.0675,0.46
+Kansas,1982,20,0.0675,0.46
+Kansas,1983,20,0.0675,0.46
+Kansas,1984,20,0.0675,0.46
+Kansas,1985,20,0.0675,0.46
+Kansas,1986,20,0.0675,0.46
+Kansas,1987,20,0.0675,0.4
+Kansas,1988,20,0.0675,0.34
+Kansas,1989,20,0.0675,0.34
+Kansas,1990,20,0.0675,0.34
+Kansas,1991,20,0.0675,0.34
+Kansas,1992,20,0.0675,0.34
+Kansas,1993,20,0.0735,0.35
+Kansas,1994,20,0.0735,0.35
+Kansas,1995,20,0.0735,0.35
+Kansas,1996,20,0.0735,0.35
+Kansas,1997,20,0.0735,0.35
+Kansas,1998,20,0.0735,0.35
+Kansas,1999,20,0.0735,0.35
+Kansas,2000,20,0.0735,0.35
+Kansas,2001,20,0.0735,0.35
+Kansas,2002,20,0.0735,0.35
+Kansas,2003,20,0.0735,0.35
+Kansas,2004,20,0.0735,0.35
+Kansas,2005,20,0.0735,0.35
+Kansas,2006,20,0.0735,0.35
+Kansas,2007,20,0.0735,0.35
+Kansas,2008,20,0.071,0.35
+Kansas,2009,20,0.0705,0.35
+Kansas,2010,20,0.0705,0.35
+Kentucky,1980,21,0.06,0.46
+Kentucky,1981,21,0.06,0.46
+Kentucky,1982,21,0.06,0.46
+Kentucky,1983,21,0.06,0.46
+Kentucky,1984,21,0.06,0.46
+Kentucky,1985,21,0.0725,0.46
+Kentucky,1986,21,0.0725,0.46
+Kentucky,1987,21,0.0725,0.4
+Kentucky,1988,21,0.0725,0.34
+Kentucky,1989,21,0.0725,0.34
+Kentucky,1990,21,0.08,0.34
+Kentucky,1991,21,0.08,0.34
+Kentucky,1992,21,0.08,0.34
+Kentucky,1993,21,0.0825,0.35
+Kentucky,1994,21,0.0825,0.35
+Kentucky,1995,21,0.0825,0.35
+Kentucky,1996,21,0.0825,0.35
+Kentucky,1997,21,0.0825,0.35
+Kentucky,1998,21,0.0825,0.35
+Kentucky,1999,21,0.0825,0.35
+Kentucky,2000,21,0.0825,0.35
+Kentucky,2001,21,0.0825,0.35
+Kentucky,2002,21,0.0825,0.35
+Kentucky,2003,21,0.0825,0.35
+Kentucky,2004,21,0.0825,0.35
+Kentucky,2005,21,0.07,0.35
+Kentucky,2006,21,0.07,0.35
+Kentucky,2007,21,0.06,0.35
+Kentucky,2008,21,0.06,0.35
+Kentucky,2009,21,0.06,0.35
+Kentucky,2010,21,0.06,0.35
+Louisiana,1980,22,0.08,0.46
+Louisiana,1981,22,0.08,0.46
+Louisiana,1982,22,0.08,0.46
+Louisiana,1983,22,0.08,0.46
+Louisiana,1984,22,0.08,0.46
+Louisiana,1985,22,0.08,0.46
+Louisiana,1986,22,0.08,0.46
+Louisiana,1987,22,0.08,0.4
+Louisiana,1988,22,0.08,0.34
+Louisiana,1989,22,0.08,0.34
+Louisiana,1990,22,0.08,0.34
+Louisiana,1991,22,0.08,0.34
+Louisiana,1992,22,0.08,0.34
+Louisiana,1993,22,0.08,0.35
+Louisiana,1994,22,0.08,0.35
+Louisiana,1995,22,0.08,0.35
+Louisiana,1996,22,0.08,0.35
+Louisiana,1997,22,0.08,0.35
+Louisiana,1998,22,0.08,0.35
+Louisiana,1999,22,0.08,0.35
+Louisiana,2000,22,0.08,0.35
+Louisiana,2001,22,0.08,0.35
+Louisiana,2002,22,0.08,0.35
+Louisiana,2003,22,0.08,0.35
+Louisiana,2004,22,0.08,0.35
+Louisiana,2005,22,0.08,0.35
+Louisiana,2006,22,0.08,0.35
+Louisiana,2007,22,0.08,0.35
+Louisiana,2008,22,0.08,0.35
+Louisiana,2009,22,0.08,0.35
+Louisiana,2010,22,0.08,0.35
+Maine,1980,23,0.0693,0.46
+Maine,1981,23,0.0693,0.46
+Maine,1982,23,0.0693,0.46
+Maine,1983,23,0.0893,0.46
+Maine,1984,23,0.0893,0.46
+Maine,1985,23,0.0893,0.46
+Maine,1986,23,0.0893,0.46
+Maine,1987,23,0.0893,0.4
+Maine,1988,23,0.0893,0.34
+Maine,1989,23,0.0893,0.34
+Maine,1990,23,0.0893,0.34
+Maine,1991,23,0.0893,0.34
+Maine,1992,23,0.0893,0.34
+Maine,1993,23,0.0893,0.35
+Maine,1994,23,0.0893,0.35
+Maine,1995,23,0.0893,0.35
+Maine,1996,23,0.0893,0.35
+Maine,1997,23,0.0893,0.35
+Maine,1998,23,0.0893,0.35
+Maine,1999,23,0.0893,0.35
+Maine,2000,23,0.0893,0.35
+Maine,2001,23,0.0893,0.35
+Maine,2002,23,0.0893,0.35
+Maine,2003,23,0.0893,0.35
+Maine,2004,23,0.0893,0.35
+Maine,2005,23,0.0893,0.35
+Maine,2006,23,0.0893,0.35
+Maine,2007,23,0.0893,0.35
+Maine,2008,23,0.0893,0.35
+Maine,2009,23,0.0893,0.35
+Maine,2010,23,0.0893,0.35
+Maryland,1980,24,0.07,0.46
+Maryland,1981,24,0.07,0.46
+Maryland,1982,24,0.07,0.46
+Maryland,1983,24,0.07,0.46
+Maryland,1984,24,0.07,0.46
+Maryland,1985,24,0.07,0.46
+Maryland,1986,24,0.07,0.46
+Maryland,1987,24,0.07,0.4
+Maryland,1988,24,0.07,0.34
+Maryland,1989,24,0.07,0.34
+Maryland,1990,24,0.07,0.34
+Maryland,1991,24,0.07,0.34
+Maryland,1992,24,0.07,0.34
+Maryland,1993,24,0.07,0.35
+Maryland,1994,24,0.07,0.35
+Maryland,1995,24,0.07,0.35
+Maryland,1996,24,0.07,0.35
+Maryland,1997,24,0.07,0.35
+Maryland,1998,24,0.07,0.35
+Maryland,1999,24,0.07,0.35
+Maryland,2000,24,0.07,0.35
+Maryland,2001,24,0.07,0.35
+Maryland,2002,24,0.07,0.35
+Maryland,2003,24,0.07,0.35
+Maryland,2004,24,0.07,0.35
+Maryland,2005,24,0.07,0.35
+Maryland,2006,24,0.07,0.35
+Maryland,2007,24,0.07,0.35
+Maryland,2008,24,0.07,0.35
+Maryland,2009,24,0.07,0.35
+Maryland,2010,24,0.07,0.35
+Massachusetts,1980,25,0.095,0.46
+Massachusetts,1981,25,0.095,0.46
+Massachusetts,1982,25,0.095,0.46
+Massachusetts,1983,25,0.095,0.46
+Massachusetts,1984,25,0.095,0.46
+Massachusetts,1985,25,0.095,0.46
+Massachusetts,1986,25,0.095,0.46
+Massachusetts,1987,25,0.095,0.4
+Massachusetts,1988,25,0.095,0.34
+Massachusetts,1989,25,0.095,0.34
+Massachusetts,1990,25,0.095,0.34
+Massachusetts,1991,25,0.095,0.34
+Massachusetts,1992,25,0.095,0.34
+Massachusetts,1993,25,0.095,0.35
+Massachusetts,1994,25,0.095,0.35
+Massachusetts,1995,25,0.095,0.35
+Massachusetts,1996,25,0.095,0.35
+Massachusetts,1997,25,0.095,0.35
+Massachusetts,1998,25,0.095,0.35
+Massachusetts,1999,25,0.095,0.35
+Massachusetts,2000,25,0.095,0.35
+Massachusetts,2001,25,0.095,0.35
+Massachusetts,2002,25,0.095,0.35
+Massachusetts,2003,25,0.095,0.35
+Massachusetts,2004,25,0.095,0.35
+Massachusetts,2005,25,0.095,0.35
+Massachusetts,2006,25,0.095,0.35
+Massachusetts,2007,25,0.0833,0.35
+Massachusetts,2008,25,0.0833,0.35
+Massachusetts,2009,25,0.095,0.35
+Massachusetts,2010,25,0.0875,0.35
+Michigan,1980,26,0.0235,0.46
+Michigan,1981,26,0.0235,0.46
+Michigan,1982,26,0.0235,0.46
+Michigan,1983,26,0.0235,0.46
+Michigan,1984,26,0.0235,0.46
+Michigan,1985,26,0.0235,0.46
+Michigan,1986,26,0.0235,0.46
+Michigan,1987,26,0.0235,0.4
+Michigan,1988,26,0.0235,0.34
+Michigan,1989,26,0.0235,0.34
+Michigan,1990,26,0.0235,0.34
+Michigan,1991,26,0.0235,0.34
+Michigan,1992,26,0.0235,0.34
+Michigan,1993,26,0.0235,0.35
+Michigan,1994,26,0.023,0.35
+Michigan,1995,26,0.023,0.35
+Michigan,1996,26,0.023,0.35
+Michigan,1997,26,0.023,0.35
+Michigan,1998,26,0.023,0.35
+Michigan,1999,26,0.023,0.35
+Michigan,2000,26,0.022,0.35
+Michigan,2001,26,0.021,0.35
+Michigan,2002,26,0.02,0.35
+Michigan,2003,26,0.019,0.35
+Michigan,2004,26,0.019,0.35
+Michigan,2005,26,0.019,0.35
+Michigan,2006,26,0.019,0.35
+Michigan,2007,26,0.023,0.35
+Michigan,2008,26,0.0495,0.35
+Michigan,2009,26,0.0495,0.35
+Michigan,2010,26,0.0495,0.35
+Minnesota,1980,27,0.12,0.46
+Minnesota,1981,27,0.12,0.46
+Minnesota,1982,27,0.12,0.46
+Minnesota,1983,27,0.12,0.46
+Minnesota,1984,27,0.12,0.46
+Minnesota,1985,27,0.12,0.46
+Minnesota,1986,27,0.12,0.46
+Minnesota,1987,27,0.095,0.4
+Minnesota,1988,27,0.095,0.34
+Minnesota,1989,27,0.095,0.34
+Minnesota,1990,27,0.098,0.34
+Minnesota,1991,27,0.098,0.34
+Minnesota,1992,27,0.098,0.34
+Minnesota,1993,27,0.098,0.35
+Minnesota,1994,27,0.098,0.35
+Minnesota,1995,27,0.098,0.35
+Minnesota,1996,27,0.098,0.35
+Minnesota,1997,27,0.098,0.35
+Minnesota,1998,27,0.098,0.35
+Minnesota,1999,27,0.098,0.35
+Minnesota,2000,27,0.098,0.35
+Minnesota,2001,27,0.098,0.35
+Minnesota,2002,27,0.098,0.35
+Minnesota,2003,27,0.098,0.35
+Minnesota,2004,27,0.098,0.35
+Minnesota,2005,27,0.098,0.35
+Minnesota,2006,27,0.098,0.35
+Minnesota,2007,27,0.098,0.35
+Minnesota,2008,27,0.098,0.35
+Minnesota,2009,27,0.098,0.35
+Minnesota,2010,27,0.098,0.35
+Mississippi,1980,28,0.04,0.46
+Mississippi,1981,28,0.04,0.46
+Mississippi,1982,28,0.04,0.46
+Mississippi,1983,28,0.05,0.46
+Mississippi,1984,28,0.05,0.46
+Mississippi,1985,28,0.05,0.46
+Mississippi,1986,28,0.05,0.46
+Mississippi,1987,28,0.05,0.4
+Mississippi,1988,28,0.05,0.34
+Mississippi,1989,28,0.05,0.34
+Mississippi,1990,28,0.05,0.34
+Mississippi,1991,28,0.05,0.34
+Mississippi,1992,28,0.05,0.34
+Mississippi,1993,28,0.05,0.35
+Mississippi,1994,28,0.05,0.35
+Mississippi,1995,28,0.05,0.35
+Mississippi,1996,28,0.05,0.35
+Mississippi,1997,28,0.05,0.35
+Mississippi,1998,28,0.05,0.35
+Mississippi,1999,28,0.05,0.35
+Mississippi,2000,28,0.05,0.35
+Mississippi,2001,28,0.05,0.35
+Mississippi,2002,28,0.05,0.35
+Mississippi,2003,28,0.05,0.35
+Mississippi,2004,28,0.05,0.35
+Mississippi,2005,28,0.05,0.35
+Mississippi,2006,28,0.05,0.35
+Mississippi,2007,28,0.05,0.35
+Mississippi,2008,28,0.05,0.35
+Mississippi,2009,28,0.05,0.35
+Mississippi,2010,28,0.05,0.35
+Missouri,1980,29,0.05,0.46
+Missouri,1981,29,0.05,0.46
+Missouri,1982,29,0.05,0.46
+Missouri,1983,29,0.05,0.46
+Missouri,1984,29,0.05,0.46
+Missouri,1985,29,0.05,0.46
+Missouri,1986,29,0.05,0.46
+Missouri,1987,29,0.05,0.4
+Missouri,1988,29,0.05,0.34
+Missouri,1989,29,0.05,0.34
+Missouri,1990,29,0.06,0.34
+Missouri,1991,29,0.06,0.34
+Missouri,1992,29,0.06,0.34
+Missouri,1993,29,0.065,0.35
+Missouri,1994,29,0.0625,0.35
+Missouri,1995,29,0.0625,0.35
+Missouri,1996,29,0.0625,0.35
+Missouri,1997,29,0.0625,0.35
+Missouri,1998,29,0.0625,0.35
+Missouri,1999,29,0.0625,0.35
+Missouri,2000,29,0.0625,0.35
+Missouri,2001,29,0.0625,0.35
+Missouri,2002,29,0.0625,0.35
+Missouri,2003,29,0.0625,0.35
+Missouri,2004,29,0.0625,0.35
+Missouri,2005,29,0.0625,0.35
+Missouri,2006,29,0.0625,0.35
+Missouri,2007,29,0.0625,0.35
+Missouri,2008,29,0.0625,0.35
+Missouri,2009,29,0.0625,0.35
+Missouri,2010,29,0.0625,0.35
+Montana,1980,30,0.0675,0.46
+Montana,1981,30,0.0675,0.46
+Montana,1982,30,0.0675,0.46
+Montana,1983,30,0.0675,0.46
+Montana,1984,30,0.0675,0.46
+Montana,1985,30,0.0675,0.46
+Montana,1986,30,0.0675,0.46
+Montana,1987,30,0.0675,0.4
+Montana,1988,30,0.0675,0.34
+Montana,1989,30,0.0675,0.34
+Montana,1990,30,0.0675,0.34
+Montana,1991,30,0.0675,0.34
+Montana,1992,30,0.0675,0.34
+Montana,1993,30,0.0675,0.35
+Montana,1994,30,0.065,0.35
+Montana,1995,30,0.065,0.35
+Montana,1996,30,0.065,0.35
+Montana,1997,30,0.065,0.35
+Montana,1998,30,0.065,0.35
+Montana,1999,30,0.065,0.35
+Montana,2000,30,0.065,0.35
+Montana,2001,30,0.065,0.35
+Montana,2002,30,0.065,0.35
+Montana,2003,30,0.065,0.35
+Montana,2004,30,0.065,0.35
+Montana,2005,30,0.065,0.35
+Montana,2006,30,0.065,0.35
+Montana,2007,30,0.07,0.35
+Montana,2008,30,0.07,0.35
+Montana,2009,30,0.07,0.35
+Montana,2010,30,0.07,0.35
+Nebraska,1980,31,0.04675,0.46
+Nebraska,1981,31,0.04675,0.46
+Nebraska,1982,31,0.04675,0.46
+Nebraska,1983,31,0.07,0.46
+Nebraska,1984,31,0.0665,0.46
+Nebraska,1985,31,0.0665,0.46
+Nebraska,1986,31,0.0665,0.46
+Nebraska,1987,31,0.0665,0.4
+Nebraska,1988,31,0.0665,0.34
+Nebraska,1989,31,0.0665,0.34
+Nebraska,1990,31,0.0724,0.34
+Nebraska,1991,31,0.0781,0.34
+Nebraska,1992,31,0.0781,0.34
+Nebraska,1993,31,0.0781,0.35
+Nebraska,1994,31,0.0781,0.35
+Nebraska,1995,31,0.0781,0.35
+Nebraska,1996,31,0.0781,0.35
+Nebraska,1997,31,0.0781,0.35
+Nebraska,1998,31,0.0781,0.35
+Nebraska,1999,31,0.0781,0.35
+Nebraska,2000,31,0.0781,0.35
+Nebraska,2001,31,0.0781,0.35
+Nebraska,2002,31,0.0781,0.35
+Nebraska,2003,31,0.0781,0.35
+Nebraska,2004,31,0.0781,0.35
+Nebraska,2005,31,0.0781,0.35
+Nebraska,2006,31,0.0781,0.35
+Nebraska,2007,31,0.08,0.35
+Nebraska,2008,31,0.08,0.35
+Nebraska,2009,31,0.08,0.35
+Nebraska,2010,31,0.08,0.35
+Nevada,1980,32,0,0.46
+Nevada,1981,32,0,0.46
+Nevada,1982,32,0,0.46
+Nevada,1983,32,0,0.46
+Nevada,1984,32,0,0.46
+Nevada,1985,32,0,0.46
+Nevada,1986,32,0,0.46
+Nevada,1987,32,0,0.4
+Nevada,1988,32,0,0.34
+Nevada,1989,32,0,0.34
+Nevada,1990,32,0,0.34
+Nevada,1991,32,0,0.34
+Nevada,1992,32,0,0.34
+Nevada,1993,32,0,0.35
+Nevada,1994,32,0,0.35
+Nevada,1995,32,0,0.35
+Nevada,1996,32,0,0.35
+Nevada,1997,32,0,0.35
+Nevada,1998,32,0,0.35
+Nevada,1999,32,0,0.35
+Nevada,2000,32,0,0.35
+Nevada,2001,32,0,0.35
+Nevada,2002,32,0,0.35
+Nevada,2003,32,0,0.35
+Nevada,2004,32,0,0.35
+Nevada,2005,32,0,0.35
+Nevada,2006,32,0,0.35
+Nevada,2007,32,0,0.35
+Nevada,2008,32,0,0.35
+Nevada,2009,32,0,0.35
+Nevada,2010,32,0,0.35
+New Hampshire,1980,33,0.08,0.46
+New Hampshire,1981,33,0.08,0.46
+New Hampshire,1982,33,0.08,0.46
+New Hampshire,1983,33,0.08,0.46
+New Hampshire,1984,33,0.08,0.46
+New Hampshire,1985,33,0.08,0.46
+New Hampshire,1986,33,0.08,0.46
+New Hampshire,1987,33,0.08,0.4
+New Hampshire,1988,33,0.08,0.34
+New Hampshire,1989,33,0.08,0.34
+New Hampshire,1990,33,0.08,0.34
+New Hampshire,1991,33,0.08,0.34
+New Hampshire,1992,33,0.08,0.34
+New Hampshire,1993,33,0.075,0.35
+New Hampshire,1994,33,0.07,0.35
+New Hampshire,1995,33,0.07,0.35
+New Hampshire,1996,33,0.07,0.35
+New Hampshire,1997,33,0.07,0.35
+New Hampshire,1998,33,0.07,0.35
+New Hampshire,1999,33,0.07,0.35
+New Hampshire,2000,33,0.08,0.35
+New Hampshire,2001,33,0.085,0.35
+New Hampshire,2002,33,0.085,0.35
+New Hampshire,2003,33,0.085,0.35
+New Hampshire,2004,33,0.085,0.35
+New Hampshire,2005,33,0.085,0.35
+New Hampshire,2006,33,0.085,0.35
+New Hampshire,2007,33,0.085,0.35
+New Hampshire,2008,33,0.085,0.35
+New Hampshire,2009,33,0.085,0.35
+New Hampshire,2010,33,0.085,0.35
+New Jersey,1980,34,0.09,0.46
+New Jersey,1981,34,0.09,0.46
+New Jersey,1982,34,0.09,0.46
+New Jersey,1983,34,0.09,0.46
+New Jersey,1984,34,0.09,0.46
+New Jersey,1985,34,0.09,0.46
+New Jersey,1986,34,0.09,0.46
+New Jersey,1987,34,0.09,0.4
+New Jersey,1988,34,0.09,0.34
+New Jersey,1989,34,0.09,0.34
+New Jersey,1990,34,0.09,0.34
+New Jersey,1991,34,0.09,0.34
+New Jersey,1992,34,0.09,0.34
+New Jersey,1993,34,0.09,0.35
+New Jersey,1994,34,0.09,0.35
+New Jersey,1995,34,0.09,0.35
+New Jersey,1996,34,0.09,0.35
+New Jersey,1997,34,0.09,0.35
+New Jersey,1998,34,0.09,0.35
+New Jersey,1999,34,0.09,0.35
+New Jersey,2000,34,0.09,0.35
+New Jersey,2001,34,0.09,0.35
+New Jersey,2002,34,0.09,0.35
+New Jersey,2003,34,0.09,0.35
+New Jersey,2004,34,0.09,0.35
+New Jersey,2005,34,0.09,0.35
+New Jersey,2006,34,0.09,0.35
+New Jersey,2007,34,0.09,0.35
+New Jersey,2008,34,0.09,0.35
+New Jersey,2009,34,0.09,0.35
+New Jersey,2010,34,0.09,0.35
+New Mexico,1980,35,0.05,0.46
+New Mexico,1981,35,0.08,0.46
+New Mexico,1982,35,0.08,0.46
+New Mexico,1983,35,0.08,0.46
+New Mexico,1984,35,0.08,0.46
+New Mexico,1985,35,0.08,0.46
+New Mexico,1986,35,0.08,0.46
+New Mexico,1987,35,0.08,0.4
+New Mexico,1988,35,0.08,0.34
+New Mexico,1989,35,0.08,0.34
+New Mexico,1990,35,0.08,0.34
+New Mexico,1991,35,0.08,0.34
+New Mexico,1992,35,0.08,0.34
+New Mexico,1993,35,0.076,0.35
+New Mexico,1994,35,0.076,0.35
+New Mexico,1995,35,0.076,0.35
+New Mexico,1996,35,0.076,0.35
+New Mexico,1997,35,0.076,0.35
+New Mexico,1998,35,0.076,0.35
+New Mexico,1999,35,0.076,0.35
+New Mexico,2000,35,0.076,0.35
+New Mexico,2001,35,0.076,0.35
+New Mexico,2002,35,0.076,0.35
+New Mexico,2003,35,0.076,0.35
+New Mexico,2004,35,0.076,0.35
+New Mexico,2005,35,0.076,0.35
+New Mexico,2006,35,0.076,0.35
+New Mexico,2007,35,0.076,0.35
+New Mexico,2008,35,0.076,0.35
+New Mexico,2009,35,0.076,0.35
+New Mexico,2010,35,0.076,0.35
+New York,1980,36,0.1,0.46
+New York,1981,36,0.09,0.46
+New York,1982,36,0.09,0.46
+New York,1983,36,0.09,0.46
+New York,1984,36,0.09,0.46
+New York,1985,36,0.09,0.46
+New York,1986,36,0.09,0.46
+New York,1987,36,0.09,0.4
+New York,1988,36,0.09,0.34
+New York,1989,36,0.09,0.34
+New York,1990,36,0.09,0.34
+New York,1991,36,0.09,0.34
+New York,1992,36,0.09,0.34
+New York,1993,36,0.09,0.35
+New York,1994,36,0.09,0.35
+New York,1995,36,0.09,0.35
+New York,1996,36,0.09,0.35
+New York,1997,36,0.09,0.35
+New York,1998,36,0.09,0.35
+New York,1999,36,0.09,0.35
+New York,2000,36,0.085,0.35
+New York,2001,36,0.08,0.35
+New York,2002,36,0.075,0.35
+New York,2003,36,0.075,0.35
+New York,2004,36,0.075,0.35
+New York,2005,36,0.075,0.35
+New York,2006,36,0.075,0.35
+New York,2007,36,0.071,0.35
+New York,2008,36,0.071,0.35
+New York,2009,36,0.071,0.35
+New York,2010,36,0.071,0.35
+North Carolina,1980,37,0.06,0.46
+North Carolina,1981,37,0.06,0.46
+North Carolina,1982,37,0.06,0.46
+North Carolina,1983,37,0.06,0.46
+North Carolina,1984,37,0.06,0.46
+North Carolina,1985,37,0.06,0.46
+North Carolina,1986,37,0.06,0.46
+North Carolina,1987,37,0.07,0.4
+North Carolina,1988,37,0.07,0.34
+North Carolina,1989,37,0.07,0.34
+North Carolina,1990,37,0.07,0.34
+North Carolina,1991,37,0.0775,0.34
+North Carolina,1992,37,0.0775,0.34
+North Carolina,1993,37,0.0775,0.35
+North Carolina,1994,37,0.0775,0.35
+North Carolina,1995,37,0.0775,0.35
+North Carolina,1996,37,0.0775,0.35
+North Carolina,1997,37,0.075,0.35
+North Carolina,1998,37,0.075,0.35
+North Carolina,1999,37,0.07,0.35
+North Carolina,2000,37,0.069,0.35
+North Carolina,2001,37,0.069,0.35
+North Carolina,2002,37,0.069,0.35
+North Carolina,2003,37,0.069,0.35
+North Carolina,2004,37,0.069,0.35
+North Carolina,2005,37,0.069,0.35
+North Carolina,2006,37,0.069,0.35
+North Carolina,2007,37,0.069,0.35
+North Carolina,2008,37,0.069,0.35
+North Carolina,2009,37,0.069,0.35
+North Carolina,2010,37,0.069,0.35
+North Dakota,1980,38,0.085,0.46
+North Dakota,1981,38,0.085,0.46
+North Dakota,1982,38,0.085,0.46
+North Dakota,1983,38,0.105,0.46
+North Dakota,1984,38,0.105,0.46
+North Dakota,1985,38,0.105,0.46
+North Dakota,1986,38,0.105,0.46
+North Dakota,1987,38,0.105,0.4
+North Dakota,1988,38,0.105,0.34
+North Dakota,1989,38,0.105,0.34
+North Dakota,1990,38,0.105,0.34
+North Dakota,1991,38,0.105,0.34
+North Dakota,1992,38,0.105,0.34
+North Dakota,1993,38,0.105,0.35
+North Dakota,1994,38,0.105,0.35
+North Dakota,1995,38,0.105,0.35
+North Dakota,1996,38,0.105,0.35
+North Dakota,1997,38,0.105,0.35
+North Dakota,1998,38,0.105,0.35
+North Dakota,1999,38,0.105,0.35
+North Dakota,2000,38,0.105,0.35
+North Dakota,2001,38,0.105,0.35
+North Dakota,2002,38,0.105,0.35
+North Dakota,2003,38,0.105,0.35
+North Dakota,2004,38,0.07,0.35
+North Dakota,2005,38,0.07,0.35
+North Dakota,2006,38,0.07,0.35
+North Dakota,2007,38,0.065,0.35
+North Dakota,2008,38,0.065,0.35
+North Dakota,2009,38,0.064,0.35
+North Dakota,2010,38,0.064,0.35
+Ohio,1980,39,0.08,0.46
+Ohio,1981,39,0.09,0.46
+Ohio,1982,39,0.09,0.46
+Ohio,1983,39,0.092,0.46
+Ohio,1984,39,0.092,0.46
+Ohio,1985,39,0.092,0.46
+Ohio,1986,39,0.092,0.46
+Ohio,1987,39,0.092,0.4
+Ohio,1988,39,0.089,0.34
+Ohio,1989,39,0.089,0.34
+Ohio,1990,39,0.089,0.34
+Ohio,1991,39,0.089,0.34
+Ohio,1992,39,0.089,0.34
+Ohio,1993,39,0.089,0.35
+Ohio,1994,39,0.089,0.35
+Ohio,1995,39,0.089,0.35
+Ohio,1996,39,0.089,0.35
+Ohio,1997,39,0.089,0.35
+Ohio,1998,39,0.089,0.35
+Ohio,1999,39,0.085,0.35
+Ohio,2000,39,0.085,0.35
+Ohio,2001,39,0.085,0.35
+Ohio,2002,39,0.085,0.35
+Ohio,2003,39,0.085,0.35
+Ohio,2004,39,0.085,0.35
+Ohio,2005,39,0.085,0.35
+Ohio,2006,39,0.085,0.35
+Ohio,2007,39,0.051,0.35
+Ohio,2008,39,0.034,0.35
+Ohio,2009,39,0.017,0.35
+Ohio,2010,39,0,0.35
+Oklahoma,1980,40,0.04,0.46
+Oklahoma,1981,40,0.06,0.46
+Oklahoma,1982,40,0.06,0.46
+Oklahoma,1983,40,0.06,0.46
+Oklahoma,1984,40,0.06,0.46
+Oklahoma,1985,40,0.06,0.46
+Oklahoma,1986,40,0.06,0.46
+Oklahoma,1987,40,0.06,0.4
+Oklahoma,1988,40,0.06,0.34
+Oklahoma,1989,40,0.06,0.34
+Oklahoma,1990,40,0.06,0.34
+Oklahoma,1991,40,0.06,0.34
+Oklahoma,1992,40,0.06,0.34
+Oklahoma,1993,40,0.06,0.35
+Oklahoma,1994,40,0.06,0.35
+Oklahoma,1995,40,0.06,0.35
+Oklahoma,1996,40,0.06,0.35
+Oklahoma,1997,40,0.06,0.35
+Oklahoma,1998,40,0.06,0.35
+Oklahoma,1999,40,0.06,0.35
+Oklahoma,2000,40,0.06,0.35
+Oklahoma,2001,40,0.06,0.35
+Oklahoma,2002,40,0.06,0.35
+Oklahoma,2003,40,0.06,0.35
+Oklahoma,2004,40,0.06,0.35
+Oklahoma,2005,40,0.06,0.35
+Oklahoma,2006,40,0.06,0.35
+Oklahoma,2007,40,0.06,0.35
+Oklahoma,2008,40,0.06,0.35
+Oklahoma,2009,40,0.06,0.35
+Oklahoma,2010,40,0.06,0.35
+Oregon,1980,41,0.075,0.46
+Oregon,1981,41,0.075,0.46
+Oregon,1982,41,0.075,0.46
+Oregon,1983,41,0.075,0.46
+Oregon,1984,41,0.075,0.46
+Oregon,1985,41,0.075,0.46
+Oregon,1986,41,0.075,0.46
+Oregon,1987,41,0.066,0.4
+Oregon,1988,41,0.066,0.34
+Oregon,1989,41,0.066,0.34
+Oregon,1990,41,0.066,0.34
+Oregon,1991,41,0.066,0.34
+Oregon,1992,41,0.066,0.34
+Oregon,1993,41,0.066,0.35
+Oregon,1994,41,0.066,0.35
+Oregon,1995,41,0.066,0.35
+Oregon,1996,41,0.066,0.35
+Oregon,1997,41,0.066,0.35
+Oregon,1998,41,0.066,0.35
+Oregon,1999,41,0.066,0.35
+Oregon,2000,41,0.066,0.35
+Oregon,2001,41,0.066,0.35
+Oregon,2002,41,0.066,0.35
+Oregon,2003,41,0.066,0.35
+Oregon,2004,41,0.066,0.35
+Oregon,2005,41,0.066,0.35
+Oregon,2006,41,0.066,0.35
+Oregon,2007,41,0.07,0.35
+Oregon,2008,41,0.07,0.35
+Oregon,2009,41,0.07,0.35
+Oregon,2010,41,0.07,0.35
+Pennsylvania,1980,42,0.095,0.46
+Pennsylvania,1981,42,0.095,0.46
+Pennsylvania,1982,42,0.095,0.46
+Pennsylvania,1983,42,0.095,0.46
+Pennsylvania,1984,42,0.095,0.46
+Pennsylvania,1985,42,0.095,0.46
+Pennsylvania,1986,42,0.095,0.46
+Pennsylvania,1987,42,0.085,0.4
+Pennsylvania,1988,42,0.085,0.34
+Pennsylvania,1989,42,0.085,0.34
+Pennsylvania,1990,42,0.085,0.34
+Pennsylvania,1991,42,0.105,0.34
+Pennsylvania,1992,42,0.105,0.34
+Pennsylvania,1993,42,0.105,0.35
+Pennsylvania,1994,42,0.105,0.35
+Pennsylvania,1995,42,0.0999,0.35
+Pennsylvania,1996,42,0.0999,0.35
+Pennsylvania,1997,42,0.0999,0.35
+Pennsylvania,1998,42,0.0999,0.35
+Pennsylvania,1999,42,0.0999,0.35
+Pennsylvania,2000,42,0.0999,0.35
+Pennsylvania,2001,42,0.0999,0.35
+Pennsylvania,2002,42,0.0999,0.35
+Pennsylvania,2003,42,0.0999,0.35
+Pennsylvania,2004,42,0.0999,0.35
+Pennsylvania,2005,42,0.0999,0.35
+Pennsylvania,2006,42,0.0999,0.35
+Pennsylvania,2007,42,0.0999,0.35
+Pennsylvania,2008,42,0.0999,0.35
+Pennsylvania,2009,42,0.0999,0.35
+Pennsylvania,2010,42,0.0999,0.35
+Rhode Island,1980,44,0.08,0.46
+Rhode Island,1981,44,0.09,0.46
+Rhode Island,1982,44,0.09,0.46
+Rhode Island,1983,44,0.09,0.46
+Rhode Island,1984,44,0.09,0.46
+Rhode Island,1985,44,0.09,0.46
+Rhode Island,1986,44,0.09,0.46
+Rhode Island,1987,44,0.09,0.4
+Rhode Island,1988,44,0.09,0.34
+Rhode Island,1989,44,0.09,0.34
+Rhode Island,1990,44,0.09,0.34
+Rhode Island,1991,44,0.09,0.34
+Rhode Island,1992,44,0.09,0.34
+Rhode Island,1993,44,0.09,0.35
+Rhode Island,1994,44,0.09,0.35
+Rhode Island,1995,44,0.09,0.35
+Rhode Island,1996,44,0.09,0.35
+Rhode Island,1997,44,0.09,0.35
+Rhode Island,1998,44,0.09,0.35
+Rhode Island,1999,44,0.09,0.35
+Rhode Island,2000,44,0.09,0.35
+Rhode Island,2001,44,0.09,0.35
+Rhode Island,2002,44,0.09,0.35
+Rhode Island,2003,44,0.09,0.35
+Rhode Island,2004,44,0.09,0.35
+Rhode Island,2005,44,0.09,0.35
+Rhode Island,2006,44,0.09,0.35
+Rhode Island,2007,44,0.09,0.35
+Rhode Island,2008,44,0.09,0.35
+Rhode Island,2009,44,0.09,0.35
+Rhode Island,2010,44,0.09,0.35
+South Carolina,1980,45,0.06,0.46
+South Carolina,1981,45,0.06,0.46
+South Carolina,1982,45,0.06,0.46
+South Carolina,1983,45,0.06,0.46
+South Carolina,1984,45,0.06,0.46
+South Carolina,1985,45,0.06,0.46
+South Carolina,1986,45,0.06,0.46
+South Carolina,1987,45,0.06,0.4
+South Carolina,1988,45,0.06,0.34
+South Carolina,1989,45,0.05,0.34
+South Carolina,1990,45,0.05,0.34
+South Carolina,1991,45,0.05,0.34
+South Carolina,1992,45,0.05,0.34
+South Carolina,1993,45,0.05,0.35
+South Carolina,1994,45,0.05,0.35
+South Carolina,1995,45,0.05,0.35
+South Carolina,1996,45,0.05,0.35
+South Carolina,1997,45,0.05,0.35
+South Carolina,1998,45,0.05,0.35
+South Carolina,1999,45,0.05,0.35
+South Carolina,2000,45,0.05,0.35
+South Carolina,2001,45,0.05,0.35
+South Carolina,2002,45,0.05,0.35
+South Carolina,2003,45,0.05,0.35
+South Carolina,2004,45,0.05,0.35
+South Carolina,2005,45,0.05,0.35
+South Carolina,2006,45,0.05,0.35
+South Carolina,2007,45,0.05,0.35
+South Carolina,2008,45,0.05,0.35
+South Carolina,2009,45,0.05,0.35
+South Carolina,2010,45,0.05,0.35
+South Dakota,1980,46,0,0.46
+South Dakota,1981,46,0,0.46
+South Dakota,1982,46,0,0.46
+South Dakota,1983,46,0,0.46
+South Dakota,1984,46,0,0.46
+South Dakota,1985,46,0,0.46
+South Dakota,1986,46,0,0.46
+South Dakota,1987,46,0,0.4
+South Dakota,1988,46,0,0.34
+South Dakota,1989,46,0,0.34
+South Dakota,1990,46,0,0.34
+South Dakota,1991,46,0,0.34
+South Dakota,1992,46,0,0.34
+South Dakota,1993,46,0,0.35
+South Dakota,1994,46,0,0.35
+South Dakota,1995,46,0,0.35
+South Dakota,1996,46,0,0.35
+South Dakota,1997,46,0,0.35
+South Dakota,1998,46,0,0.35
+South Dakota,1999,46,0,0.35
+South Dakota,2000,46,0,0.35
+South Dakota,2001,46,0,0.35
+South Dakota,2002,46,0,0.35
+South Dakota,2003,46,0,0.35
+South Dakota,2004,46,0,0.35
+South Dakota,2005,46,0,0.35
+South Dakota,2006,46,0,0.35
+South Dakota,2007,46,0,0.35
+South Dakota,2008,46,0,0.35
+South Dakota,2009,46,0,0.35
+South Dakota,2010,46,0,0.35
+Tennessee,1980,47,0.06,0.46
+Tennessee,1981,47,0.06,0.46
+Tennessee,1982,47,0.06,0.46
+Tennessee,1983,47,0.06,0.46
+Tennessee,1984,47,0.06,0.46
+Tennessee,1985,47,0.06,0.46
+Tennessee,1986,47,0.06,0.46
+Tennessee,1987,47,0.06,0.46
+Tennessee,1988,47,0.06,0.4
+Tennessee,1989,47,0.06,0.34
+Tennessee,1990,47,0.06,0.34
+Tennessee,1991,47,0.06,0.34
+Tennessee,1992,47,0.06,0.34
+Tennessee,1993,47,0.06,0.35
+Tennessee,1994,47,0.06,0.35
+Tennessee,1995,47,0.06,0.35
+Tennessee,1996,47,0.06,0.35
+Tennessee,1997,47,0.06,0.35
+Tennessee,1998,47,0.06,0.35
+Tennessee,1999,47,0.06,0.35
+Tennessee,2000,47,0.06,0.35
+Tennessee,2001,47,0.06,0.35
+Tennessee,2002,47,0.065,0.35
+Tennessee,2003,47,0.065,0.35
+Tennessee,2004,47,0.065,0.35
+Tennessee,2005,47,0.065,0.35
+Tennessee,2006,47,0.065,0.35
+Tennessee,2007,47,0.06,0.35
+Tennessee,2008,47,0.06,0.35
+Tennessee,2009,47,0.06,0.35
+Tennessee,2010,47,0.06,0.35
+Texas,1980,48,0,0.46
+Texas,1981,48,0,0.46
+Texas,1982,48,0,0.46
+Texas,1983,48,0,0.46
+Texas,1984,48,0,0.46
+Texas,1985,48,0,0.46
+Texas,1986,48,0,0.46
+Texas,1987,48,0,0.4
+Texas,1988,48,0,0.34
+Texas,1989,48,0,0.34
+Texas,1990,48,0,0.34
+Texas,1991,48,0,0.34
+Texas,1992,48,0,0.34
+Texas,1993,48,0,0.35
+Texas,1994,48,0,0.35
+Texas,1995,48,0,0.35
+Texas,1996,48,0,0.35
+Texas,1997,48,0,0.35
+Texas,1998,48,0,0.35
+Texas,1999,48,0,0.35
+Texas,2000,48,0,0.35
+Texas,2001,48,0,0.35
+Texas,2002,48,0,0.35
+Texas,2003,48,0,0.35
+Texas,2004,48,0,0.35
+Texas,2005,48,0,0.35
+Texas,2006,48,0,0.35
+Texas,2007,48,0,0.35
+Texas,2008,48,0,0.35
+Texas,2009,48,0,0.35
+Texas,2010,48,0,0.35
+Utah,1980,49,0.04,0.46
+Utah,1981,49,0.04,0.46
+Utah,1982,49,0.04,0.46
+Utah,1983,49,0.0465,0.46
+Utah,1984,49,0.05,0.46
+Utah,1985,49,0.05,0.46
+Utah,1986,49,0.05,0.46
+Utah,1987,49,0.05,0.4
+Utah,1988,49,0.05,0.34
+Utah,1989,49,0.05,0.34
+Utah,1990,49,0.05,0.34
+Utah,1991,49,0.05,0.34
+Utah,1992,49,0.05,0.34
+Utah,1993,49,0.05,0.35
+Utah,1994,49,0.05,0.35
+Utah,1995,49,0.05,0.35
+Utah,1996,49,0.05,0.35
+Utah,1997,49,0.05,0.35
+Utah,1998,49,0.05,0.35
+Utah,1999,49,0.05,0.35
+Utah,2000,49,0.05,0.35
+Utah,2001,49,0.05,0.35
+Utah,2002,49,0.05,0.35
+Utah,2003,49,0.05,0.35
+Utah,2004,49,0.05,0.35
+Utah,2005,49,0.05,0.35
+Utah,2006,49,0.05,0.35
+Utah,2007,49,0.05,0.35
+Utah,2008,49,0.05,0.35
+Utah,2009,49,0.05,0.35
+Utah,2010,49,0.05,0.35
+Vermont,1980,50,0.075,0.46
+Vermont,1981,50,0.075,0.46
+Vermont,1982,50,0.075,0.46
+Vermont,1983,50,0.075,0.46
+Vermont,1984,50,0.09,0.46
+Vermont,1985,50,0.09,0.46
+Vermont,1986,50,0.09,0.46
+Vermont,1987,50,0.09,0.4
+Vermont,1988,50,0.0825,0.34
+Vermont,1989,50,0.0825,0.34
+Vermont,1990,50,0.0825,0.34
+Vermont,1991,50,0.0825,0.34
+Vermont,1992,50,0.0825,0.34
+Vermont,1993,50,0.0825,0.35
+Vermont,1994,50,0.0825,0.35
+Vermont,1995,50,0.0825,0.35
+Vermont,1996,50,0.0825,0.35
+Vermont,1997,50,0.0975,0.35
+Vermont,1998,50,0.0975,0.35
+Vermont,1999,50,0.0975,0.35
+Vermont,2000,50,0.0975,0.35
+Vermont,2001,50,0.0975,0.35
+Vermont,2002,50,0.0975,0.35
+Vermont,2003,50,0.0975,0.35
+Vermont,2004,50,0.0975,0.35
+Vermont,2005,50,0.0975,0.35
+Vermont,2006,50,0.089,0.35
+Vermont,2007,50,0.085,0.35
+Vermont,2008,50,0.085,0.35
+Vermont,2009,50,0.085,0.35
+Vermont,2010,50,0.085,0.35
+Virginia,1980,51,0.06,0.46
+Virginia,1981,51,0.06,0.46
+Virginia,1982,51,0.06,0.46
+Virginia,1983,51,0.06,0.46
+Virginia,1984,51,0.06,0.46
+Virginia,1985,51,0.06,0.46
+Virginia,1986,51,0.06,0.46
+Virginia,1987,51,0.06,0.4
+Virginia,1988,51,0.06,0.34
+Virginia,1989,51,0.06,0.34
+Virginia,1990,51,0.06,0.34
+Virginia,1991,51,0.06,0.34
+Virginia,1992,51,0.06,0.34
+Virginia,1993,51,0.06,0.35
+Virginia,1994,51,0.06,0.35
+Virginia,1995,51,0.06,0.35
+Virginia,1996,51,0.06,0.35
+Virginia,1997,51,0.06,0.35
+Virginia,1998,51,0.06,0.35
+Virginia,1999,51,0.06,0.35
+Virginia,2000,51,0.06,0.35
+Virginia,2001,51,0.06,0.35
+Virginia,2002,51,0.06,0.35
+Virginia,2003,51,0.06,0.35
+Virginia,2004,51,0.06,0.35
+Virginia,2005,51,0.06,0.35
+Virginia,2006,51,0.06,0.35
+Virginia,2007,51,0.06,0.35
+Virginia,2008,51,0.06,0.35
+Virginia,2009,51,0.06,0.35
+Virginia,2010,51,0.06,0.35
+Washington,1980,53,0,0.46
+Washington,1981,53,0,0.46
+Washington,1982,53,0,0.46
+Washington,1983,53,0,0.46
+Washington,1984,53,0,0.46
+Washington,1985,53,0,0.46
+Washington,1986,53,0,0.46
+Washington,1987,53,0,0.4
+Washington,1988,53,0,0.34
+Washington,1989,53,0,0.34
+Washington,1990,53,0,0.34
+Washington,1991,53,0,0.34
+Washington,1992,53,0,0.34
+Washington,1993,53,0,0.35
+Washington,1994,53,0,0.35
+Washington,1995,53,0,0.35
+Washington,1996,53,0,0.35
+Washington,1997,53,0,0.35
+Washington,1998,53,0,0.35
+Washington,1999,53,0,0.35
+Washington,2000,53,0,0.35
+Washington,2001,53,0,0.35
+Washington,2002,53,0,0.35
+Washington,2003,53,0,0.35
+Washington,2004,53,0,0.35
+Washington,2005,53,0,0.35
+Washington,2006,53,0,0.35
+Washington,2007,53,0,0.35
+Washington,2008,53,0,0.35
+Washington,2009,53,0,0.35
+Washington,2010,53,0,0.35
+West Virginia,1980,54,0.06,0.46
+West Virginia,1981,54,0.06,0.46
+West Virginia,1982,54,0.06,0.46
+West Virginia,1983,54,0.07,0.46
+West Virginia,1984,54,0.07,0.46
+West Virginia,1985,54,0.07,0.46
+West Virginia,1986,54,0.07,0.46
+West Virginia,1987,54,0.0975,0.4
+West Virginia,1988,54,0.0975,0.34
+West Virginia,1989,54,0.9525,0.34
+West Virginia,1990,54,0.09525,0.34
+West Virginia,1991,54,0.09375,0.34
+West Virginia,1992,54,0.0915,0.34
+West Virginia,1993,54,0.09,0.35
+West Virginia,1994,54,0.09,0.35
+West Virginia,1995,54,0.09,0.35
+West Virginia,1996,54,0.09,0.35
+West Virginia,1997,54,0.09,0.35
+West Virginia,1998,54,0.09,0.35
+West Virginia,1999,54,0.09,0.35
+West Virginia,2000,54,0.09,0.35
+West Virginia,2001,54,0.09,0.35
+West Virginia,2002,54,0.09,0.35
+West Virginia,2003,54,0.09,0.35
+West Virginia,2004,54,0.09,0.35
+West Virginia,2005,54,0.09,0.35
+West Virginia,2006,54,0.09,0.35
+West Virginia,2007,54,0.0875,0.35
+West Virginia,2008,54,0.0875,0.35
+West Virginia,2009,54,0.085,0.35
+West Virginia,2010,54,0.085,0.35
+Wisconsin,1980,55,0.079,0.46
+Wisconsin,1981,55,0.079,0.46
+Wisconsin,1982,55,0.079,0.46
+Wisconsin,1983,55,0.079,0.46
+Wisconsin,1984,55,0.079,0.46
+Wisconsin,1985,55,0.079,0.46
+Wisconsin,1986,55,0.079,0.46
+Wisconsin,1987,55,0.079,0.4
+Wisconsin,1988,55,0.079,0.34
+Wisconsin,1989,55,0.079,0.34
+Wisconsin,1990,55,0.079,0.34
+Wisconsin,1991,55,0.079,0.34
+Wisconsin,1992,55,0.079,0.34
+Wisconsin,1993,55,0.079,0.35
+Wisconsin,1994,55,0.079,0.35
+Wisconsin,1995,55,0.079,0.35
+Wisconsin,1996,55,0.079,0.35
+Wisconsin,1997,55,0.079,0.35
+Wisconsin,1998,55,0.079,0.35
+Wisconsin,1999,55,0.079,0.35
+Wisconsin,2000,55,0.079,0.35
+Wisconsin,2001,55,0.079,0.35
+Wisconsin,2002,55,0.079,0.35
+Wisconsin,2003,55,0.079,0.35
+Wisconsin,2004,55,0.079,0.35
+Wisconsin,2005,55,0.079,0.35
+Wisconsin,2006,55,0.079,0.35
+Wisconsin,2007,55,0.079,0.35
+Wisconsin,2008,55,0.079,0.35
+Wisconsin,2009,55,0.079,0.35
+Wisconsin,2010,55,0.079,0.35
+Wyoming,1980,56,0,0.46
+Wyoming,1981,56,0,0.46
+Wyoming,1982,56,0,0.46
+Wyoming,1983,56,0,0.46
+Wyoming,1984,56,0,0.46
+Wyoming,1985,56,0,0.46
+Wyoming,1986,56,0,0.46
+Wyoming,1987,56,0,0.4
+Wyoming,1988,56,0,0.34
+Wyoming,1989,56,0,0.34
+Wyoming,1990,56,0,0.34
+Wyoming,1991,56,0,0.34
+Wyoming,1992,56,0,0.34
+Wyoming,1993,56,0,0.35
+Wyoming,1994,56,0,0.35
+Wyoming,1995,56,0,0.35
+Wyoming,1996,56,0,0.35
+Wyoming,1997,56,0,0.35
+Wyoming,1998,56,0,0.35
+Wyoming,1999,56,0,0.35
+Wyoming,2000,56,0,0.35
+Wyoming,2001,56,0,0.35
+Wyoming,2002,56,0,0.35
+Wyoming,2003,56,0,0.35
+Wyoming,2004,56,0,0.35
+Wyoming,2005,56,0,0.35
+Wyoming,2006,56,0,0.35
+Wyoming,2007,56,0,0.35
+Wyoming,2008,56,0,0.35
+Wyoming,2009,56,0,0.35
+Wyoming,2010,56,0,0.35
