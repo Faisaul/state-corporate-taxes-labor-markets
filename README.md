@@ -47,17 +47,8 @@ $$
 
 I first estimate models with county and year fixed effects. My preferred specification uses county and state-by-year fixed effects:
 
-$$
-Y_{ct}
-=
-\beta (TaxRate_{st} \times ManufacturingExposure_c)
-+
-\alpha_c
-+
-\gamma_{st}
-+
-\varepsilon_{ct}
-$$
+```math
+Y_{ct} = \beta (TaxRate_{st} \times ManufacturingExposure_c) + \alpha_c + \gamma_{st} + \varepsilon_{ct}
 
 The outcomes are log employment and log average annual pay. Standard errors are clustered at the state level.
 
