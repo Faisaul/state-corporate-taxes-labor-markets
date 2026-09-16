@@ -21,53 +21,53 @@ I measure county exposure using the manufacturing share of private employment in
 
 ## Data
 
-The final panel contains 54,700 county-year observations across 2,605 counties from 1990–2010.
+The final panel contains **54,700 county-year observations across 2,605 counties** from 1990–2010.
 
 Labor market outcomes come from the **BLS Quarterly Census of Employment and Wages (QCEW)**. I use annual county employment and average annual pay.
 
-State corporate tax rates come from historical tax data included in the replication files for work by Juan Carlos Suárez Serrato and Owen Zidar.
+State corporate tax rates come from historical tax data included in the replication materials for research by Juan Carlos Suárez Serrato and Owen Zidar. The original tax-rate file used in this project is included in `data/raw/Corp-Tax-Rates.csv`.
 
-Manufacturing exposure is calculated as:
+Manufacturing exposure is measured as:
 
-\[
-Manufacturing\ Exposure_c =
-\frac{Manufacturing\ Employment_{c,1990}}
-{Private\ Employment_{c,1990}}
-\]
+$$
+ManufacturingExposure_c =
+\frac{ManufacturingEmployment_{c,1990}}
+{PrivateEmployment_{c,1990}}
+$$
 
-The average county in the analysis sample has a manufacturing employment share of about 26%.
+The average county in the analysis sample has a manufacturing employment share of about **26%**.
 
 ## Empirical Approach
 
-I interact each state's corporate tax rate with a county's 1990 manufacturing exposure:
+The main variable of interest interacts each state's corporate tax rate with a county's predetermined manufacturing exposure:
 
-\[
+$$
 TaxRate_{st} \times ManufacturingExposure_c
-\]
+$$
 
-I first estimate models with county and year fixed effects. My preferred specification replaces year fixed effects with state-by-year fixed effects:
+I first estimate models with county and year fixed effects. My preferred specification uses county and state-by-year fixed effects:
 
-\[
+$$
 Y_{ct}
 =
-\beta(TaxRate_{st} \times ManufacturingExposure_c)
+\beta (TaxRate_{st} \times ManufacturingExposure_c)
 +
 \alpha_c
 +
 \gamma_{st}
 +
 \varepsilon_{ct}
-\]
+$$
 
 The outcomes are log employment and log average annual pay. Standard errors are clustered at the state level.
 
-County fixed effects account for persistent differences across counties. State-by-year fixed effects absorb shocks shared by counties in the same state and year, so the interaction is identified from differences in initial manufacturing exposure across counties within the same state-year.
+County fixed effects account for persistent differences across counties. State-by-year fixed effects absorb shocks shared by counties in the same state and year. The interaction is therefore identified from differences in initial manufacturing exposure across counties within the same state-year.
 
 ## Results
 
 I do not find a statistically significant relationship between the tax-exposure interaction and county employment.
 
-For average annual pay, the preferred specification produces a positive and statistically significant coefficient. The estimate is also similar after excluding counties where manufacturing accounted for more than 75% of private employment in 1990.
+For average annual pay, the preferred specification produces a positive and statistically significant coefficient. The estimate remains similar after excluding counties where manufacturing accounted for more than 75% of private employment in 1990.
 
 | Model | Coefficient | Standard Error |
 |---|---:|---:|
@@ -77,13 +77,13 @@ For average annual pay, the preferred specification produces a positive and stat
 | Pay — County + State-Year FE | 3.220 | 0.868 |
 | Pay — Excluding High-Exposure Counties | 3.174 | 0.884 |
 
-The pay result is interesting, but I interpret it cautiously. The design shows how outcomes differ with predetermined manufacturing exposure within state-years; it does not by itself establish that corporate tax increases caused higher pay.
+I interpret the pay result cautiously. The design shows how the relationship between state corporate tax rates and local labor market outcomes differs with predetermined manufacturing exposure. It does not, by itself, establish that corporate tax increases caused higher pay.
 
 ## Employment Results
 
 ![Employment Results](output/figures/employment_results.png)
 
-The employment estimates are imprecise and their 95% confidence intervals include zero.
+The employment estimates are imprecise, and their 95% confidence intervals include zero.
 
 ## Pay Results
 
@@ -106,11 +106,13 @@ The pay estimate is more precise in the state-by-year fixed-effects specificatio
 
 ## Limitations
 
-The main limitation is that manufacturing employment is only a proxy for a county's exposure to the corporate sector. It does not directly measure which firms are subject to state corporate income taxes.
+Manufacturing employment is a proxy for a county's exposure to the corporate sector. It does not directly measure which firms are subject to state corporate income taxes.
 
-QCEW disclosure suppression also limits the counties for which I can construct manufacturing exposure in 1990.
+QCEW disclosure suppression also limits the counties for which manufacturing exposure can be constructed in 1990.
 
-Finally, tax changes can coincide with other economic and policy changes. State-by-year fixed effects absorb shocks common to counties within a state, but counties with different manufacturing exposure could still experience different underlying trends. I therefore treat the estimates as evidence of differential relationships rather than a definitive causal effect.
+Finally, state tax changes can coincide with other economic and policy changes. State-by-year fixed effects absorb shocks common to counties within the same state and year, but counties with different initial manufacturing exposure could still experience different underlying trends.
+
+For these reasons, I interpret the estimates as evidence of differential relationships rather than definitive causal effects.
 
 ## Repository Structure
 
@@ -123,7 +125,12 @@ code/
 
 data/
 ├── raw/
+│   └── Corp-Tax-Rates.csv
 └── processed/
+    ├── county_labor_market_panel.csv
+    ├── county_manufacturing_exposure.csv
+    ├── final_analysis_panel.csv
+    └── state_corporate_tax_rates.csv
 
 output/
 ├── figures/
@@ -134,13 +141,15 @@ output/
     └── regression_results.csv
 ```
 
+Raw QCEW annual files are excluded from the repository because of their size. `02_build_qcew_panel.R` downloads the required files directly from the BLS.
+
 ## Replication
 
 Run the scripts in order:
 
-1. `01_build_tax_panel.R` — cleans the state corporate tax data
-2. `02_build_qcew_panel.R` — builds the county labor market panel and 1990 manufacturing exposure
-3. `03_build_analysis_panel.R` — merges the datasets and creates the analysis variables
-4. `04_analysis.R` — estimates the models and produces the tables and figures
+1. `01_build_tax_panel.R` — cleans the state corporate tax data.
+2. `02_build_qcew_panel.R` — downloads QCEW data and constructs the county labor market panel and 1990 manufacturing exposure.
+3. `03_build_analysis_panel.R` — merges the datasets and creates the analysis variables.
+4. `04_analysis.R` — estimates the fixed-effects models and produces the tables and figures.
 
-The project is written in R using `tidyverse` for data construction and `fixest` for fixed-effects estimation.
+The project is written in **R**, using `tidyverse` for data construction and `fixest` for fixed-effects estimation.
