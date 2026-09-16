@@ -29,11 +29,11 @@ State corporate tax rates come from historical tax data included in the replicat
 
 Manufacturing exposure is measured as:
 
-$$
+```math
 ManufacturingExposure_c =
 \frac{ManufacturingEmployment_{c,1990}}
 {PrivateEmployment_{c,1990}}
-$$
+```
 
 The average county in the analysis sample has a manufacturing employment share of about **26%**.
 
@@ -41,14 +41,19 @@ The average county in the analysis sample has a manufacturing employment share o
 
 The main variable of interest interacts each state's corporate tax rate with a county's predetermined manufacturing exposure:
 
-$$
+```math
 TaxRate_{st} \times ManufacturingExposure_c
-$$
+```
 
 I first estimate models with county and year fixed effects. My preferred specification uses county and state-by-year fixed effects:
 
 ```math
-Y_{ct} = \beta (TaxRate_{st} \times ManufacturingExposure_c) + \alpha_c + \gamma_{st} + \varepsilon_{ct}
+Y_{ct} =
+\beta (TaxRate_{st} \times ManufacturingExposure_c)
++ \alpha_c
++ \gamma_{st}
++ \varepsilon_{ct}
+```
 
 The outcomes are log employment and log average annual pay. Standard errors are clustered at the state level.
 
